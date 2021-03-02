@@ -19,9 +19,6 @@ Kaiti
 ## 百度云盘链接
 
 如果本仓库下载有困难，请使用百度云盘
-
-链接：https://pan.baidu.com/s/1CGqa0T7MvH4HLk0B_TZVZw 
-提取码：7088
-
-
+链接：https://pan.baidu.com/s/1zTGa6-Lbd5Z_Ix9Px4yMGA 
+提取码：icqa 
 
